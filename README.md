@@ -123,7 +123,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
 
 📧 erivelltonmenezes@gmail.com   
-🌐 [LinkedIn or GitHub Profile Here]
+🌐 https://github.com/eriveltonmenezes
 
 ---
 
@@ -133,5 +133,6 @@ _Data Science Capstone Project – Falcon 9 Landing Prediction_
 
 ## 📚 References
 
+- [Wikipedia - List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 - [SpaceX Official Website](https://www.spacex.com/)
 
