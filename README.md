@@ -120,5 +120,17 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
-## 📁 Repository Structure
+## ✍️ Author
+
+**Erivelton Menezes**  
+_Data Science Capstone Project – Falcon 9 Landing Prediction_  
+
+📧 erivelltonmenezes@gmail.com   
+🌐 [LinkedIn or GitHub Profile Here]
+
+---
+
+## 📚 References
+
+- [SpaceX Official Website](https://www.spacex.com/)
 
