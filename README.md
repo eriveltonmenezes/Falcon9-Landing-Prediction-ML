@@ -1,6 +1,3 @@
-# Falcon9-Landing-Prediction-ML
-Capstone (IBM/Coursera Final Project): Falcon 9 landing forecast to assess launch costs. Demonstrates ML, Web Scraping, SQL and interactive visualization with Dash/Folium. Complete Data Science cycle in real problem.
-
 # 🚀 Falcon 9 First Stage Landing Prediction (Machine Learning)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -127,6 +124,10 @@ _Data Science Capstone Project – Falcon 9 Landing Prediction_
 
 📧 erivelltonmenezes@gmail.com   
 🌐 [LinkedIn or GitHub Profile Here]
+
+---
+
+> ✨ *“Predicting the future of space exploration — one model at a time.”*
 
 ---
 
