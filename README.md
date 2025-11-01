@@ -119,11 +119,11 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ## ✍️ Author
 
-**Erivelton Menezes**  
+**Erivelton Pinheiro de Menezes**  
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
 
-📧 erivelltonmenezes@gmail.com   
-🌐 https://github.com/eriveltonmenezes
+📧 [Your Email Here]    
+🌐 [LinkedIn or GitHub Profile Here]
 
 ---
 
