@@ -1,5 +1,11 @@
 # 🚀 Falcon 9 First Stage Landing Prediction (Machine Learning)
 
+<p align="center">
+<img width="600" height="800" alt="falcon9-banner-eris" src="https://github.com/user-attachments/assets/0610cf46-c930-4d8e-8e8e-b9879e24a6cf" />
+</p>
+<h2 align="center">Falcon9 Landing Prediction ML</h2>
+<p align="center"><i>Capstone IBM/Coursera - Data Science applied to SpaceX</i></p>
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
