@@ -3,6 +3,7 @@
 <p align="center">
 <img width="600" height="800" alt="falcon9-banner-eris" src="https://github.com/user-attachments/assets/0610cf46-c930-4d8e-8e8e-b9879e24a6cf" />
 </p>
+
 <h2 align="center">Falcon9 Landing Prediction ML</h2>
 <p align="center"><i>Capstone IBM/Coursera - Data Science applied to SpaceX</i></p>
 
@@ -23,7 +24,7 @@
 6. [Key Analytical Findings](#-key-analytical-findings)
 7. [Conclusions](#-conclusions)
 8. [Author](#-author)
-9. [References](#-references)
+10. [References](#-references)
 
 ---
 
@@ -154,6 +155,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 - Data-driven insights like these can support **cost estimation**, **mission planning**, and **operational optimization** in aerospace projects.
 
 ---
+
 ## ✍️ Author
 
 **Erivelton Pinheiro de Menezes**  
@@ -172,4 +174,3 @@ _Data Science Capstone Project – Falcon 9 Landing Prediction_
 
 - [Wikipedia - List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 - [SpaceX Official Website](https://www.spacex.com/)
-
