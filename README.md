@@ -19,11 +19,11 @@
 2. [Modules Summary](#-modules-summary)
 3. [Technologies Used](#-technologies-used)
 4. [Key Deliverables](#-key-deliverables)
-5. [Repository Structure](#-repository-structure)
-6. [Setup & Usage](#-setup--usage)
-7. [Suggested Improvements](#-suggested-improvements)
-8. [Author](#-author)
-9. [References](#-references)
+5. [Predictive Modeling Results](#-predictive-modeling-results)
+6. [Key Analytical Findings](#-key-analytical-findings)
+7. [Conclusions](#-conclusions)
+6. [Author](#-author)
+8. [References](#-references)
 
 ---
 
