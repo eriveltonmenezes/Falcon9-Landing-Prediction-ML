@@ -133,17 +133,35 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 | Decision Tree | **0.8875** | Best model overall |
 | KNN | 0.848 | Similar to SVM |
 
+
+<p align="center">
+  <img src="assets/model_accuracy.png" alt="Model Accuracy Comparison" width="600">
+  <br>
+  <em>Comparison of model accuracies — Decision Tree achieved the best performance (0.8875).</em>
+</p>
+
+
 > 🧠 **Best Model:** Decision Tree — achieved the highest accuracy and balanced precision/recall, with zero false negatives.
 
 ---
-
 ## 📈 Key Analytical Findings
+<p align="center">
+  <img src="assets/launch_success_trend.png" alt="Falcon 9 Launch Success Trend" width="600">
+  <br>
+  <em>Falcon 9 yearly launch success rate — showing strong reliability growth since 2010.</em>
+</p>
 
 1. **Operational Reliability:** Launch success rate improved from below 60% (2010–2013) to above 80% (2017–2020).  
 2. **Orbit and Payload Impact:** Missions to **LEO** and **ISS** show higher success rates, even with heavier payloads.  
 3. **Geospatial Insights:** Florida launch sites (**KSC LC-39A**, **CCAFS LC-40**) dominate, benefiting from coastal proximity.  
 4. **Model Insights:** The **Decision Tree classifier (0.8875 accuracy)** is ideal for predicting landing success and aiding cost estimations.  
 5. **Strategic Implication:** Falcon 9’s reusability drives a sustainable **cost advantage** validated through data.
+
+<p align="center">
+  <img src="assets/orbit_success_rate.png" alt="Success Rate by Orbit Type" width="600">
+  <br>
+  <em>Landing success rate by orbit type — LEO and ISS missions demonstrate highest reliability.</em>
+</p>
 
 ---
 
