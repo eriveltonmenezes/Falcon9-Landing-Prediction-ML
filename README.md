@@ -1,11 +1,11 @@
 # 🚀 Falcon 9 First Stage Landing Prediction (Machine Learning)
 
 <p align="center">
-<img width="600" height="800" alt="falcon9-banner-eris" src="https://github.com/user-attachments/assets/0610cf46-c930-4d8e-8e8e-b9879e24a6cf" />
+  <img width="600" height="800" alt="falcon9-banner-eris" src="https://github.com/user-attachments/assets/0610cf46-c930-4d8e-8e8e-b9879e24a6cf" />
 </p>
 
 <h2 align="center">Falcon9 Landing Prediction ML</h2>
-<p align="center"><i>Capstone IBM/Coursera - Data Science applied to SpaceX</i></p>
+<p align="center"><i>IBM/Coursera Data Science Capstone – Predicting the Future of Reusable Rockets</i></p>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -24,7 +24,7 @@
 6. [Key Analytical Findings](#-key-analytical-findings)
 7. [Conclusions](#-conclusions)
 8. [Author](#-author)
-10. [References](#-references)
+9. [References](#-references)
 
 ---
 
@@ -133,18 +133,18 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 | Decision Tree | **0.8875** | Best model overall |
 | KNN | 0.848 | Similar to SVM |
 
-
 <p align="center">
   <img src="assets/model_accuracy.png" alt="Model Accuracy Comparison" width="600">
   <br>
   <em>Comparison of model accuracies — Decision Tree achieved the best performance (0.8875).</em>
 </p>
 
-
 > 🧠 **Best Model:** Decision Tree — achieved the highest accuracy and balanced precision/recall, with zero false negatives.
 
 ---
+
 ## 📈 Key Analytical Findings
+
 <p align="center">
   <img src="assets/launch_success_trend.png" alt="Falcon 9 Launch Success Trend" width="600">
   <br>
@@ -179,7 +179,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 **Erivelton Pinheiro de Menezes**  
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
 
-📧 [...]    
+📧 [...]  
 🌐 [GitHub: @eriveltonmenezes](https://github.com/eriveltonmenezes)
 
 ---
@@ -190,5 +190,5 @@ _Data Science Capstone Project – Falcon 9 Landing Prediction_
 
 ## 📚 References
 
-- [Wikipedia - List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+- [Wikipedia - List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)  
 - [SpaceX Official Website](https://www.spacex.com/)
