@@ -123,6 +123,38 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
+## 🤖 Predictive Modeling Results
+
+| Model | Accuracy | Notes |
+|--------|-----------|--------|
+| Logistic Regression | 0.846 | Baseline linear model |
+| SVM | 0.848 | Moderate performance |
+| Decision Tree | **0.8875** | Best model overall |
+| KNN | 0.848 | Similar to SVM |
+
+> 🧠 **Best Model:** Decision Tree — achieved the highest accuracy and balanced precision/recall, with zero false negatives.
+
+---
+
+## 📈 Key Analytical Findings
+
+1. **Operational Reliability:** Launch success rate improved from below 60% (2010–2013) to above 80% (2017–2020).  
+2. **Orbit and Payload Impact:** Missions to **LEO** and **ISS** show higher success rates, even with heavier payloads.  
+3. **Geospatial Insights:** Florida launch sites (**KSC LC-39A**, **CCAFS LC-40**) dominate, benefiting from coastal proximity.  
+4. **Model Insights:** The **Decision Tree classifier (0.8875 accuracy)** is ideal for predicting landing success and aiding cost estimations.  
+5. **Strategic Implication:** Falcon 9’s reusability drives a sustainable **cost advantage** validated through data.
+
+---
+
+## 🏁 Conclusions
+
+- SpaceX achieved high operational maturity, with **99 successful launches out of 101 analyzed**.  
+- The **Decision Tree model** proved to be the most reliable predictive tool (accuracy 0.8875).  
+- **Launch site**, **orbit type**, and **booster version** are strong predictors of landing success.  
+- Data-driven insights like these can support **cost estimation**, **mission planning**, and **operational optimization** in aerospace projects.
+
+---
+
 ## ✍️ Author
 
 **Erivelton Pinheiro de Menezes**  
