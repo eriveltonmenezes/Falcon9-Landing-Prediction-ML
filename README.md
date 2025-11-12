@@ -16,15 +16,16 @@
 ---
 
 ## 🧭 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Modules Summary](#-modules-summary)
-3. [Technologies Used](#-technologies-used)
-4. [Key Deliverables](#-key-deliverables)
-5. [Predictive Modeling Results](#-predictive-modeling-results)
-6. [Key Analytical Findings](#-key-analytical-findings)
-7. [Conclusions](#-conclusions)
+1. [Project Overview](#project-overview)
+2. [Modules Summary](#modules-summary)
+3. [Technologies Used](#technologies-used)
+4. [Key Deliverables](#key-deliverables)
+5. [Predictive Modeling Results](#predictive-modeling-results)
+6. [Key Analytical Findings](#key-analytical-findings)
+7. [Conclusions](#conclusions)
 8. [Author](#author)
-9. [References](#-references)
+9. [References](#references)
+
 
 ---
 
