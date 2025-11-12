@@ -24,9 +24,7 @@
 6. [Key Analytical Findings](#-key-analytical-findings)
 7. [Conclusions](#-conclusions)
 8. [Author](#-author)
-9. [Author](#-author)
-10. [References](#-references)
-
+9. [References](#-references)
 
 ---
 
@@ -176,12 +174,6 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
-## Author
-
-**Erivelton Pinheiro de Menezes**
-_Data Science Capstone Project - Falcon 9 Landing Prediction_
-
----
 ## ✍️ Author
 
 **Erivelton Pinheiro de Menezes**  
