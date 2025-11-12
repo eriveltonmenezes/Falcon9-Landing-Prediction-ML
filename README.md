@@ -23,7 +23,7 @@
 5. [Predictive Modeling Results](#-predictive-modeling-results)
 6. [Key Analytical Findings](#-key-analytical-findings)
 7. [Conclusions](#-conclusions)
-8. [Author](#-author)
+8. [Author](#author)
 9. [References](#-references)
 
 ---
