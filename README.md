@@ -174,7 +174,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
-## Author IBM Final Project 
+## ✍️ Author IBM Final Project 
 
 **Erivelton Pinheiro de Menezes**  
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
@@ -184,11 +184,13 @@ _Data Science Capstone Project – Falcon 9 Landing Prediction_
 
 ---
 
-> ✨ *“Predicting the future of space exploration — one model at a time.”*
-
----
-
 ## 📚 References
 
 - [Wikipedia - List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)  
 - [SpaceX Official Website](https://www.spacex.com/)
+
+---
+
+> ✨ *“Predicting the future of space exploration — one model at a time.”*
+
+---
