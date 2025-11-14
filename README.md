@@ -174,7 +174,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
-## ✍️ Author IBM Final Project 
+## Author IBM Final Project 
 
 **Erivelton Pinheiro de Menezes**  
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
