@@ -23,7 +23,7 @@
 5. [Predictive Modeling Results](#-predictive-modeling-results)
 6. [Key Analytical Findings](#-key-analytical-findings)
 7. [Conclusions](#-conclusions)
-8. [Author](#-author)
+8. [Author Capstone (IBM/Coursera Final Project)](#-author-capstone-ibm/oursera-final-project)
 9. [References](#-references)
 
 ---
@@ -174,7 +174,7 @@ Compile all findings into a comprehensive, data-driven report predicting Falcon 
 
 ---
 
-## ✍️ Author
+## ✍️ Author Capstone (IBM/Coursera Final Project)
 
 **Erivelton Pinheiro de Menezes**  
 _Data Science Capstone Project – Falcon 9 Landing Prediction_  
